@@ -3,16 +3,16 @@
 #
 
 # Name of your site (displayed in the header)
-name: Reverie
+name: Programming, but relatable
 
 # Name of the author
 author: Jonathan Markman
 
 # Short bio or description (displayed in the header)
-description: An elegant Jekyll theme
+description: A Layman’s Journey in Software Development
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/reverie.png
+avatar: /images/songsparrow.jpg
 
 #
 # Flags below are optional
