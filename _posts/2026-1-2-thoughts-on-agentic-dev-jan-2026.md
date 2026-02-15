@@ -2,7 +2,7 @@
 layout: post
 title: Thoughts on agentic development, January 2026
 categories: [AI, AgenticDevelopment]
-excerpt: AI's taking the development world by storm, and one of my thoughts as 2025 ended was that I should start recording my experiences with AI: agentic development, tooling, experiences of other devs, and so on. This will be the first in some number of posts that I manage to carve out time for.
+excerpt: AI's taking the development world by storm, and one of my thoughts as 2025 ended was that I should start recording my experiences with AI; agentic development, tooling, experiences of other devs, and so on. This will be the first in some number of posts that I manage to carve out time for.
 ---
 
 AI's taking the development world by storm, and one of my thoughts as 2025 ended was that I should start recording my experiences with AI: agentic development, tooling, experiences of other devs, and so on. This will be the first in some number of posts that I manage to carve out time for. All of these types of post will be stream-of-consciousness in the moment.
